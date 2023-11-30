@@ -45,10 +45,27 @@ Logic symbol & Truthtable
 RTL realization
 
 ### Output:
+### HALF ADDER
+![hal add pro](https://github.com/RANJANKUMAR007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128740/3e3fc567-77c6-4726-9036-30cbb321a3f8)
+### FULL ADDER
+![full add pro](https://github.com/RANJANKUMAR007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128740/eee2fd31-8155-4bef-a6c6-f06adfe49e68)
+
 ### RTL
+### HALF ADDER
+![rtl hal](https://github.com/RANJANKUMAR007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128740/273c6777-6b81-417b-b90f-eab70b287f65)
+### FULL ADDER
+![rtl full](https://github.com/RANJANKUMAR007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128740/32edd193-3e95-43d6-b79b-ecbb324380a7)
+
 ### TIMING DIAGRAM
-
-
+### HALF ADDER
+![hal time](https://github.com/RANJANKUMAR007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128740/4b540bc5-8184-4cd7-bb6d-4b19ad804fb2)
+### FULL ADDER
+![ful time](https://github.com/RANJANKUMAR007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128740/6a6bd7a0-f096-47b6-b42a-ced03f24a76e)
 ### TRUTH TABLE 
+### HALF ADDER
+![TT hal](https://github.com/RANJANKUMAR007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128740/79403358-2bfe-449a-a1ac-910b20b579fb)
+### FULL ADDER
+![TT full](https://github.com/RANJANKUMAR007/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/152128740/28b41662-ced0-4d4e-9201-e7a7d0d74f8a)
 
 ### Result:
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
